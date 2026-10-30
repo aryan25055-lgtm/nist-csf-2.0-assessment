@@ -1,0 +1,21 @@
+NIST CYBERSECURITY FRAMEWORK 2.0 - SIMPLIFIED MAP
+
+                         GOVERN (GV)
+                 Strategy, policy, oversight
+                              |
+       +----------------------+----------------------+
+       |                      |                      |
+  IDENTIFY (ID)          PROTECT (PR)           DETECT (DE)
+  Assets and risks       Safeguards              Monitoring
+       |                      |                      |
+       +----------------------+----------------------+
+                              |
+                         RESPOND (RS)
+                    Incident management
+                              |
+                         RECOVER (RC)
+                    Restore and improve
+
+The six functions are continuous and interconnected, not a mandatory
+one-way sequence. Govern provides strategy and oversight across the
+cybersecurity risk-management lifecycle.
